@@ -1,6 +1,14 @@
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dundd2&show_icons=true&locale=en&layout=compact" alt="dundd2" />&nbsp;
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dundd2&" alt="dundd2" /></p>
+#  Duncan Law
+## University of Sussex Undergraduate Computing for Digital Media and Games Student
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dundd2&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dundd2" alt="Contribution Streak Stats" />
+</div>
 
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=dundd2&show_icons=true&theme=dark&locale=en" alt="dundd2" /></p><br>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dundd2&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dundd2&label=Profile%20views&color=b40e96&style=flat-square" alt="dundd2" /> </p>
+<div align="left" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=dundd2&label=Profile%20Views&color=b40e96&style=flat-square" alt="Profile Views" />
+</div>
