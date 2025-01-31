@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dundd2&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dundd2" alt="Contribution Streak Stats" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
